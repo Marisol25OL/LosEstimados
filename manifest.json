@@ -1,0 +1,10 @@
+{
+  "name": "EstimadosComerciantes",
+  "short_name": "EstimadosComerciantes",
+  "description": "Control de inventario, compras grupales con reparto de ganancias y asistente de voz para comercios de barrio.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F5F7FA",
+  "theme_color": "#14325C",
+  "lang": "es-MX"
+}
